@@ -5,4 +5,6 @@ Used as reference information when submitting CVE and other platforms
 
 涉及领域:IOT、工控安全、二进制
 
-技术交流:WeChat WoMenQuChiShaoKaoBa
+WeChat:WoMenQuChiShaoKaoBa
+
+内容请移步https://github.com/te5tb99/For-submitting/wiki
